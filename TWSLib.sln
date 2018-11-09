@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWSLib", "TWSLib\TWSLib.csproj", "{B9681E2E-06F8-4EB9-8E99-518D05E171BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWSLibTests", "TWSLibTests\TWSLibTests.csproj", "{21D27461-BD45-43AC-B51A-9EBC4B1BA1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAPI", "..\..\..\..\..\..\TWS API\source\CSharpClient\client\CSharpAPI.csproj", "{8EDE0744-96C2-40B0-A8DC-37DF79370203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9681E2E-06F8-4EB9-8E99-518D05E171BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9681E2E-06F8-4EB9-8E99-518D05E171BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9681E2E-06F8-4EB9-8E99-518D05E171BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9681E2E-06F8-4EB9-8E99-518D05E171BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D27461-BD45-43AC-B51A-9EBC4B1BA1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D27461-BD45-43AC-B51A-9EBC4B1BA1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D27461-BD45-43AC-B51A-9EBC4B1BA1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D27461-BD45-43AC-B51A-9EBC4B1BA1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDE0744-96C2-40B0-A8DC-37DF79370203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDE0744-96C2-40B0-A8DC-37DF79370203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
